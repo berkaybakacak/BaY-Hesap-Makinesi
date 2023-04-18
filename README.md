@@ -6,7 +6,7 @@ C# ile kodlanmış standart bir hesap makinesi. Windows 10'un hesap makinesine b
 
 ---
 ### İndirme
-Sourceforge üzerinden indirebilirsiniz:
+Sourceforge üzerinden indirebilirsiniz:\
 [![Download BaY Hesap Makinesi](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/bay-hesap-makinesi/files/latest/download)
 
 ---
