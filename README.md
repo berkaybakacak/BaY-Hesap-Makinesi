@@ -1,6 +1,6 @@
 ﻿# BaY Hesap Makinesi
 
-![alt tag](goseller/1.png)
+![alt tag](https://github.com/berkaybakacak/BaY-Hesap-Makinesi/blob/master/gorseller/1.png?raw=true)
 
 C# ile kodlanmış standart bir hesap makinesi. Windows 10'un hesap makinesine benzetilmeye çalışılmıştır.
 
